@@ -33,7 +33,7 @@ const Navbar = () => {
             <div className='flex items-center justify-between mx-auto max-w-7xl h-16'>
                 <div>
                     <h1 className="text-2xl font-bold">
-  <span className="text-white drop-shadow-[0_0_10px_#1e3a8a] drop-shadow-sm">Job</span>
+  <span className="text-white drop-shadow-[0_0_5px_#1e3a8a]">Job</span>
   <span className="text-[#002C58]">Board</span>
 </h1>
                 </div>
